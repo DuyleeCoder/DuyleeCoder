@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T14:24:04.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="JhHshIA3uvIBmY2GGuUc" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T15:22:32.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="W4omff7MIicwj-UCyMNd" version="21.0.2" type="github">
   <diagram name="Page-1" id="E9UJa9tQGdcn_ux31gXJ">
     <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,6 +28,20 @@
         <mxCell id="V0yAs8B09Zqa6RQPMQjz-6" value="Yêu cầu mua hàng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="V0yAs8B09Zqa6RQPMQjz-5" vertex="1" connectable="0">
           <mxGeometry x="-0.3255" y="-1" relative="1" as="geometry">
             <mxPoint x="-5" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TXJ6zm6ddMrs-e8VETJ-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V0yAs8B09Zqa6RQPMQjz-4" target="V0yAs8B09Zqa6RQPMQjz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="250" as="sourcePoint" />
+            <mxPoint x="450" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TXJ6zm6ddMrs-e8VETJ-2" value="Hàng + Hóa đơn thanh toán" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_TXJ6zm6ddMrs-e8VETJ-1">
+          <mxGeometry x="-0.1518" y="-3" relative="1" as="geometry">
+            <mxPoint x="44" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
