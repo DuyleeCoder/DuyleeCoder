@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T00:09:33.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="1AJ-BSuX27OdE4ppd4NZ" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T14:24:04.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="JhHshIA3uvIBmY2GGuUc" version="21.0.2" type="github">
   <diagram name="Page-1" id="E9UJa9tQGdcn_ux31gXJ">
     <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="V0yAs8B09Zqa6RQPMQjz-1" value="Khách hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" width="120" height="60" as="geometry" />
+        <mxCell id="V0yAs8B09Zqa6RQPMQjz-1" value="Khách hàng" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V0yAs8B09Zqa6RQPMQjz-2" value="Nhà cung cấp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V0yAs8B09Zqa6RQPMQjz-2" value="Nhà cung cấp" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V0yAs8B09Zqa6RQPMQjz-3" value="Ban quản lý" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V0yAs8B09Zqa6RQPMQjz-3" value="Ban quản lý" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V0yAs8B09Zqa6RQPMQjz-4" value="Quản lý quán cafe" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V0yAs8B09Zqa6RQPMQjz-4" value="Quản lý quán cafe" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="V0yAs8B09Zqa6RQPMQjz-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V0yAs8B09Zqa6RQPMQjz-1" target="V0yAs8B09Zqa6RQPMQjz-4">
+        <mxCell id="V0yAs8B09Zqa6RQPMQjz-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="V0yAs8B09Zqa6RQPMQjz-1" target="V0yAs8B09Zqa6RQPMQjz-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="230" as="sourcePoint" />
             <mxPoint x="450" y="180" as="targetPoint" />
@@ -25,7 +25,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V0yAs8B09Zqa6RQPMQjz-6" value="Yêu cầu mua hàng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V0yAs8B09Zqa6RQPMQjz-5">
+        <mxCell id="V0yAs8B09Zqa6RQPMQjz-6" value="Yêu cầu mua hàng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="V0yAs8B09Zqa6RQPMQjz-5" vertex="1" connectable="0">
           <mxGeometry x="-0.3255" y="-1" relative="1" as="geometry">
             <mxPoint x="-5" y="-11" as="offset" />
           </mxGeometry>
