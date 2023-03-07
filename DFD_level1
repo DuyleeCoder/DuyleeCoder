@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T16:14:30.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="21.0.2" etag="r3OGOIw6GH6wS37n-t3p" type="github"><diagram name="Page-1" id="bSzs4arjXaRsdF3CynzF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-07T16:44:06.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="GQRXVRDnRbpIDwoCZG2c" version="21.0.2" type="github">
+  <diagram name="Page-1" id="bSzs4arjXaRsdF3CynzF">
+    <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TQ5NCYZyyqDoP-QSFEjq-1" value="Khách hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TQ5NCYZyyqDoP-QSFEjq-2" value="Nhà cung cấp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TQ5NCYZyyqDoP-QSFEjq-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="210" y="150" width="550" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="TQ5NCYZyyqDoP-QSFEjq-5" value="Bán hàng cho khách" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TQ5NCYZyyqDoP-QSFEjq-6" value="Thanh toán" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TQ5NCYZyyqDoP-QSFEjq-7" value="Tổng hợp kiểm kê và báo cáo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TQ5NCYZyyqDoP-QSFEjq-8" value="Quản lý chung" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
