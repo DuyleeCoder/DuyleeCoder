@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T16:09:42.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="uXSTYqmY_jzNDhIOBL52" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T13:31:31.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="WvAf6MJbIhtnJsLNgx3z" version="21.0.2" type="github">
   <diagram name="Page-1" id="E9UJa9tQGdcn_ux31gXJ">
     <mxGraphModel dx="1050" dy="1719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,12 +97,12 @@
             <mxPoint x="13" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_TXJ6zm6ddMrs-e8VETJ-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V0yAs8B09Zqa6RQPMQjz-4" target="V0yAs8B09Zqa6RQPMQjz-2">
+        <mxCell id="_TXJ6zm6ddMrs-e8VETJ-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.693;exitY=0.997;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="V0yAs8B09Zqa6RQPMQjz-4" target="V0yAs8B09Zqa6RQPMQjz-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="350" as="sourcePoint" />
             <mxPoint x="510" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="350" y="430" />
+              <mxPoint x="373" y="430" />
               <mxPoint x="660" y="430" />
             </Array>
           </mxGeometry>
@@ -140,6 +140,20 @@
         <mxCell id="_TXJ6zm6ddMrs-e8VETJ-19" value="Trả lời ý kiến từ khách hàng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_TXJ6zm6ddMrs-e8VETJ-18">
           <mxGeometry x="0.5206" y="-1" relative="1" as="geometry">
             <mxPoint x="61" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TXJ6zm6ddMrs-e8VETJ-22" value="Ban quản lý" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TXJ6zm6ddMrs-e8VETJ-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.247;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V0yAs8B09Zqa6RQPMQjz-4" target="_TXJ6zm6ddMrs-e8VETJ-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="220" as="sourcePoint" />
+            <mxPoint x="470" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TXJ6zm6ddMrs-e8VETJ-24" value="Phiếu yêu cầu&amp;nbsp; nguyên liệu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-32;" vertex="1" connectable="0" parent="_TXJ6zm6ddMrs-e8VETJ-23">
+          <mxGeometry x="0.2756" y="3" relative="1" as="geometry">
+            <mxPoint y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
