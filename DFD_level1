@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T10:26:09.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="20LkoVinFCFEWAxUyQ7m" version="21.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-14T11:40:13.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Q9B-P4BVrVN7ND3zid_F" version="21.0.2" type="github" pages="4">
   <diagram name="Page-1" id="bSzs4arjXaRsdF3CynzF">
-    <mxGraphModel dx="1313" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -369,7 +369,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="11F6WX4_pUPgNUVNoCKN" name="BanHang">
-    <mxGraphModel dx="1877" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -439,12 +439,13 @@
             <mxPoint x="41" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BGYSxT4KSf8egc_LuEB6-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jtafDSOgNPbXkmWQtgO8-1" target="0Z1M6aOykRWMptfprHq--5">
+        <mxCell id="BGYSxT4KSf8egc_LuEB6-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jtafDSOgNPbXkmWQtgO8-2" target="0Z1M6aOykRWMptfprHq--6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="330" as="sourcePoint" />
             <mxPoint x="450" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint y="197" />
+              <mxPoint x="870" y="200" />
+              <mxPoint x="570" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -516,7 +517,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vFpmnv85wk39ewImm5hU" name="Page-3">
-    <mxGraphModel dx="2327" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2327" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -680,7 +681,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GBUxAZGDTj9zkKE-nrJ5" name="QLChung">
-    <mxGraphModel dx="2227" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2227" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
