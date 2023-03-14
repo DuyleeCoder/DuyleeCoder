@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T08:58:11.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9xOWKM8fUFhXlccmVNIt" version="21.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-14T09:06:17.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="bomz0uJbKpXYCboKRk-v" version="21.0.2" type="github" pages="4">
   <diagram name="Page-1" id="bSzs4arjXaRsdF3CynzF">
     <mxGraphModel dx="1313" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -679,11 +679,38 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="GBUxAZGDTj9zkKE-nrJ5" name="Page-4">
-    <mxGraphModel dx="1050" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="GBUxAZGDTj9zkKE-nrJ5" name="QLChung">
+    <mxGraphModel dx="1877" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="V9ZNkf7d29QMDI0XftkJ-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="560" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="V9ZNkf7d29QMDI0XftkJ-3" value="Tạo đơn giá" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="V9ZNkf7d29QMDI0XftkJ-1">
+          <mxGeometry x="410" y="70" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="V9ZNkf7d29QMDI0XftkJ-4" value="Tổng hợp thu chi trong ngày" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="V9ZNkf7d29QMDI0XftkJ-1">
+          <mxGeometry x="40" y="400" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="V9ZNkf7d29QMDI0XftkJ-5" value="Chăm sóc khách hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="V9ZNkf7d29QMDI0XftkJ-1">
+          <mxGeometry x="410" y="400" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="V9ZNkf7d29QMDI0XftkJ-2" value="Khảo sát đơn giá" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="V9ZNkf7d29QMDI0XftkJ-1">
+          <mxGeometry x="40" y="70" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYY2xLx8pWqEL9IPO1a3-1" value="Ban quản lý" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYY2xLx8pWqEL9IPO1a3-2" value="Ban quản lý" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYY2xLx8pWqEL9IPO1a3-3" value="Khách hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYY2xLx8pWqEL9IPO1a3-4" value="Khách hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
