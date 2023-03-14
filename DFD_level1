@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T03:11:35.840Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="-uDi0nzRglqEB7xCkvMg" version="21.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-14T08:55:44.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Uxi01hzPgX7TaAp0ykCH" version="21.0.2" type="github" pages="3">
   <diagram name="Page-1" id="bSzs4arjXaRsdF3CynzF">
     <mxGraphModel dx="1313" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -532,7 +532,7 @@
         <mxCell id="p9mgvAWIr7v21jzSsRZl-2" value="Kiểm tra kho nguyên liệu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="p9mgvAWIr7v21jzSsRZl-1">
           <mxGeometry x="460" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p9mgvAWIr7v21jzSsRZl-13" value="Kho hàng" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="p9mgvAWIr7v21jzSsRZl-1">
+        <mxCell id="p9mgvAWIr7v21jzSsRZl-13" value="Kho nguyên liệu" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="p9mgvAWIr7v21jzSsRZl-1">
           <mxGeometry x="174" y="230" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p9mgvAWIr7v21jzSsRZl-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="p9mgvAWIr7v21jzSsRZl-1" source="p9mgvAWIr7v21jzSsRZl-4" target="p9mgvAWIr7v21jzSsRZl-13">
@@ -556,10 +556,33 @@
             <mxPoint x="240" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p9mgvAWIr7v21jzSsRZl-23" value="Yêu cầu kiểm kê + Danh sách mặt hàng cần kiểm kê" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=20;" vertex="1" connectable="0" parent="p9mgvAWIr7v21jzSsRZl-22">
+        <mxCell id="p9mgvAWIr7v21jzSsRZl-23" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Yêu cầu kiểm kê + Danh sách mặt hàng cần kiểm kê&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=20;" vertex="1" connectable="0" parent="p9mgvAWIr7v21jzSsRZl-22">
           <mxGeometry x="0.2797" y="-2" relative="1" as="geometry">
             <mxPoint x="-47" y="-23" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="p9mgvAWIr7v21jzSsRZl-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="p9mgvAWIr7v21jzSsRZl-1" source="p9mgvAWIr7v21jzSsRZl-2" target="p9mgvAWIr7v21jzSsRZl-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="310" as="sourcePoint" />
+            <mxPoint x="300" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9mgvAWIr7v21jzSsRZl-27" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Danh sách mặt hàng trong kho&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-20;" vertex="1" connectable="0" parent="p9mgvAWIr7v21jzSsRZl-26">
+          <mxGeometry x="0.5326" y="1" relative="1" as="geometry">
+            <mxPoint x="73" y="-32" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9mgvAWIr7v21jzSsRZl-28" value="Biên bản kiểm kê" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="p9mgvAWIr7v21jzSsRZl-1">
+          <mxGeometry x="473" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p9mgvAWIr7v21jzSsRZl-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="p9mgvAWIr7v21jzSsRZl-1" source="p9mgvAWIr7v21jzSsRZl-2" target="p9mgvAWIr7v21jzSsRZl-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="310" as="sourcePoint" />
+            <mxPoint x="300" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9mgvAWIr7v21jzSsRZl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="p9mgvAWIr7v21jzSsRZl-1" source="p9mgvAWIr7v21jzSsRZl-28" target="p9mgvAWIr7v21jzSsRZl-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p9mgvAWIr7v21jzSsRZl-5" value="Nhà cung cấp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="650" width="120" height="60" as="geometry" />
@@ -582,7 +605,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p9mgvAWIr7v21jzSsRZl-10" value="Danh sách mặt hàng cần kiểm kê" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p9mgvAWIr7v21jzSsRZl-9">
+        <mxCell id="p9mgvAWIr7v21jzSsRZl-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Danh sách mặt hàng cần kiểm kê&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p9mgvAWIr7v21jzSsRZl-9">
           <mxGeometry x="0.5542" relative="1" as="geometry">
             <mxPoint x="59" y="-10" as="offset" />
           </mxGeometry>
@@ -596,7 +619,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p9mgvAWIr7v21jzSsRZl-12" value="Biên bản kiểm kê" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p9mgvAWIr7v21jzSsRZl-11">
+        <mxCell id="p9mgvAWIr7v21jzSsRZl-12" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Biên bản kiểm kê&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p9mgvAWIr7v21jzSsRZl-11">
           <mxGeometry x="-0.5631" y="-2" relative="1" as="geometry">
             <mxPoint x="32" y="-12" as="offset" />
           </mxGeometry>
@@ -610,7 +633,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p9mgvAWIr7v21jzSsRZl-15" value="Yêu cầu báo giá + Phiếu nhập sản phẩm" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p9mgvAWIr7v21jzSsRZl-14">
+        <mxCell id="p9mgvAWIr7v21jzSsRZl-15" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Yêu cầu báo giá + Phiếu nhập sản phẩm&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p9mgvAWIr7v21jzSsRZl-14">
           <mxGeometry x="-0.5433" y="-4" relative="1" as="geometry">
             <mxPoint x="81" y="-14" as="offset" />
           </mxGeometry>
@@ -624,7 +647,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p9mgvAWIr7v21jzSsRZl-17" value="Tiền hàng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p9mgvAWIr7v21jzSsRZl-16">
+        <mxCell id="p9mgvAWIr7v21jzSsRZl-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Tiền hàng&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p9mgvAWIr7v21jzSsRZl-16">
           <mxGeometry x="-0.4147" y="1" relative="1" as="geometry">
             <mxPoint y="-8" as="offset" />
           </mxGeometry>
@@ -638,9 +661,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p9mgvAWIr7v21jzSsRZl-19" value="Hàng theo yêu cầu + Hóa đơn giao hàng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p9mgvAWIr7v21jzSsRZl-18">
+        <mxCell id="p9mgvAWIr7v21jzSsRZl-19" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Hàng theo yêu cầu + Hóa đơn giao hàng&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p9mgvAWIr7v21jzSsRZl-18">
           <mxGeometry x="0.119" y="1" relative="1" as="geometry">
             <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9mgvAWIr7v21jzSsRZl-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p9mgvAWIr7v21jzSsRZl-4" target="p9mgvAWIr7v21jzSsRZl-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="430" as="sourcePoint" />
+            <mxPoint x="420" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-50" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9mgvAWIr7v21jzSsRZl-25" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Phiếu yêu cầu nhập nguyên liệu&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p9mgvAWIr7v21jzSsRZl-24">
+          <mxGeometry x="0.0364" relative="1" as="geometry">
+            <mxPoint x="44" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
