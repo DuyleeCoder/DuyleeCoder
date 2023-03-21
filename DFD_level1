@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T13:08:19.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="JWe25Demd6dFzaUUHLmI" version="21.0.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-03-21T13:12:54.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="1SgIa7fB7r-qDlL1cnsP" version="21.0.6" type="github" pages="6">
   <diagram name="Page-1" id="bSzs4arjXaRsdF3CynzF">
     <mxGraphModel dx="1235" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -897,7 +897,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9iVWBg4rpD3tj-gEqeYs" name="Page-6">
-    <mxGraphModel dx="1313" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1152,15 +1152,15 @@
         </mxCell>
         <mxCell id="6mAI0DZtrzOnU160D4QM-12" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Phiếu yêu cầu nhập nguyên liệu&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6mAI0DZtrzOnU160D4QM-11">
           <mxGeometry x="-0.4093" y="-4" relative="1" as="geometry">
-            <mxPoint x="-56" y="-29" as="offset" />
+            <mxPoint x="-67" y="-27" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6mAI0DZtrzOnU160D4QM-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="202" as="sourcePoint" />
+            <mxPoint x="790" y="200" as="sourcePoint" />
             <mxPoint x="640" y="115" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="770" y="150" />
+              <mxPoint x="790" y="160" />
               <mxPoint x="870" y="130" />
             </Array>
           </mxGeometry>
@@ -1216,7 +1216,48 @@
         </mxCell>
         <mxCell id="6mAI0DZtrzOnU160D4QM-22" value="Tiền hàng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="6mAI0DZtrzOnU160D4QM-21">
           <mxGeometry x="-0.3393" y="1" relative="1" as="geometry">
-            <mxPoint x="9" y="-53" as="offset" />
+            <mxPoint x="11" y="-53" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6mAI0DZtrzOnU160D4QM-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="nJ3XyviSIuZ1guPdhiDE-24" target="nJ3XyviSIuZ1guPdhiDE-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="460" as="sourcePoint" />
+            <mxPoint x="740" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1080" y="470" />
+              <mxPoint x="1130" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6mAI0DZtrzOnU160D4QM-24" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Phiếu nhập nguyên liệu vào kho&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6mAI0DZtrzOnU160D4QM-23">
+          <mxGeometry x="-0.0813" y="-3" relative="1" as="geometry">
+            <mxPoint x="-91" y="-203" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6mAI0DZtrzOnU160D4QM-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.925;exitY=0.252;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nJ3XyviSIuZ1guPdhiDE-58" target="nJ3XyviSIuZ1guPdhiDE-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="430" as="sourcePoint" />
+            <mxPoint x="740" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1120" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6mAI0DZtrzOnU160D4QM-26" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Biên bản kiểm kê&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6mAI0DZtrzOnU160D4QM-25">
+          <mxGeometry x="-0.5088" y="4" relative="1" as="geometry">
+            <mxPoint x="-11" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6mAI0DZtrzOnU160D4QM-27" value="Biên bản kiểm kê" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6mAI0DZtrzOnU160D4QM-28" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nJ3XyviSIuZ1guPdhiDE-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="410" as="sourcePoint" />
+            <mxPoint x="710" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="240" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
