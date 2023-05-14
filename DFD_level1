@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-14T09:08:52.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="JZAQhp68b59L_ocPuAX3" version="21.2.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-05-14T09:11:11.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="n8LQc6lg-0Qe1BwjiM7v" version="21.2.8" type="github" pages="6">
   <diagram name="Page-1" id="bSzs4arjXaRsdF3CynzF">
     <mxGraphModel dx="1400" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -517,21 +517,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vFpmnv85wk39ewImm5hU" name="Page-3">
-    <mxGraphModel dx="1050" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="p9mgvAWIr7v21jzSsRZl-1" value="" style="swimlane;startSize=0;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="120" y="120" width="690" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="p9mgvAWIr7v21jzSsRZl-4" value="Lập phiếu nhập sản phẩm" style="ellipse;whiteSpace=wrap;html=1;" parent="p9mgvAWIr7v21jzSsRZl-1" vertex="1">
+        <mxCell id="p9mgvAWIr7v21jzSsRZl-4" value="TT04.01 Lập phiếu nhập sản phẩm" style="ellipse;whiteSpace=wrap;html=1;" parent="p9mgvAWIr7v21jzSsRZl-1" vertex="1">
           <mxGeometry x="40" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p9mgvAWIr7v21jzSsRZl-3" value="Lập phiếu yêu cầu nguyên liệu" style="ellipse;whiteSpace=wrap;html=1;" parent="p9mgvAWIr7v21jzSsRZl-1" vertex="1">
+        <mxCell id="p9mgvAWIr7v21jzSsRZl-3" value="TT04.02 Lập phiếu yêu cầu nguyên liệu" style="ellipse;whiteSpace=wrap;html=1;" parent="p9mgvAWIr7v21jzSsRZl-1" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p9mgvAWIr7v21jzSsRZl-2" value="Lập biên bản kiểm kê" style="ellipse;whiteSpace=wrap;html=1;" parent="p9mgvAWIr7v21jzSsRZl-1" vertex="1">
-          <mxGeometry x="460" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="p9mgvAWIr7v21jzSsRZl-2" value="TT04.04 Lập biên bản kiểm kê" style="ellipse;whiteSpace=wrap;html=1;" parent="p9mgvAWIr7v21jzSsRZl-1" vertex="1">
+          <mxGeometry x="440" y="130" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p9mgvAWIr7v21jzSsRZl-13" value="Kho nguyên liệu" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="p9mgvAWIr7v21jzSsRZl-1" vertex="1">
           <mxGeometry x="285" y="225" width="120" height="30" as="geometry" />
@@ -557,8 +557,8 @@
         <mxCell id="p9mgvAWIr7v21jzSsRZl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="p9mgvAWIr7v21jzSsRZl-1" source="p9mgvAWIr7v21jzSsRZl-28" target="p9mgvAWIr7v21jzSsRZl-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3fGzFDaPwZmWWS_adgZy-4" value="Lập phiếu nhập nguyên liệu vào kho" style="ellipse;whiteSpace=wrap;html=1;" parent="p9mgvAWIr7v21jzSsRZl-1" vertex="1">
-          <mxGeometry x="460" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="3fGzFDaPwZmWWS_adgZy-4" value="TT04.03 Lập phiếu nhập nguyên liệu vào kho" style="ellipse;whiteSpace=wrap;html=1;" parent="p9mgvAWIr7v21jzSsRZl-1" vertex="1">
+          <mxGeometry x="420" y="380" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3fGzFDaPwZmWWS_adgZy-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="p9mgvAWIr7v21jzSsRZl-1" source="3fGzFDaPwZmWWS_adgZy-4" target="p9mgvAWIr7v21jzSsRZl-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
