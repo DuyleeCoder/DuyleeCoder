@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-14T09:13:14.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oQoO8CCmGgGaqMC1XKEm" version="21.2.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-05-14T09:20:16.075Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="RRchL1XGkRpdl8zllqcI" version="21.2.8" type="github" pages="6">
   <diagram name="Page-1" id="bSzs4arjXaRsdF3CynzF">
     <mxGraphModel dx="1400" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -852,17 +852,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9Mmj5QjZI-awehmuXcA5" name="Page-5">
-    <mxGraphModel dx="1050" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="S_iyVda7_An8oLm1EFeB-30" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="170" width="420" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="S_iyVda7_An8oLm1EFeB-31" value="Lập phiếu cập nhật đơn giá" style="ellipse;whiteSpace=wrap;html=1;" parent="S_iyVda7_An8oLm1EFeB-30" vertex="1">
+        <mxCell id="S_iyVda7_An8oLm1EFeB-31" value="TT02.01 Lập phiếu cập nhật đơn giá" style="ellipse;whiteSpace=wrap;html=1;" parent="S_iyVda7_An8oLm1EFeB-30" vertex="1">
           <mxGeometry x="150" y="60" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="S_iyVda7_An8oLm1EFeB-33" value="In menu mới" style="ellipse;whiteSpace=wrap;html=1;" parent="S_iyVda7_An8oLm1EFeB-30" vertex="1">
+        <mxCell id="S_iyVda7_An8oLm1EFeB-33" value="TT02.02 In menu mới" style="ellipse;whiteSpace=wrap;html=1;" parent="S_iyVda7_An8oLm1EFeB-30" vertex="1">
           <mxGeometry x="150" y="370" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GIHZLELEet4jJ6oXKG5X-4" value="Đơn giá" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="S_iyVda7_An8oLm1EFeB-30" vertex="1">
